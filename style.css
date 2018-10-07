@@ -1,0 +1,15 @@
+body{
+    background-image: url('./imagen/libros.jpg');
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+    color: white;
+}
+.texto{
+    margin-top: 5%;
+}
+.btn{
+margin-top: 2%;
+
+}
